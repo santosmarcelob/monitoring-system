@@ -6,6 +6,7 @@
 - Arduino
 - C++
 - LabVIEW
+- ZigBee
 
 Projeto de Conclusão do curso de Engenharia Elétrica com Hab. em Telecomunicações
 
@@ -31,6 +32,7 @@ Arquivo <b>TCCII.vi</b> -> Sistema LabVIEW para monitoramento, onde são apresen
 - Arduino
 - C++
 - LabVIEW
+- ZigBee
 
 Electrical and Telecommunications Engineering Final Project
 
