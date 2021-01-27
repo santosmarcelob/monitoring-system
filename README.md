@@ -1,5 +1,5 @@
 # [PT-BR] Sistema de Monitoramento com Zigbee, Arduino e Labview
-<b>Sistema de monitoramento de Plantações com ZigBee, Arduino e LabVIEW</b>
+##### Sistema de monitoramento de Plantações com ZigBee, Arduino e LabVIEW
 
 ###### Tecnologias:
 
@@ -25,7 +25,7 @@ Arquivo <b>TCCII.vi</b> -> Sistema LabVIEW para monitoramento, onde são apresen
 ---------------------------------------------
 
 # [EN] Monitoring System with Zigbee, Arduino and Labview
-<b>Plantation monitoring system with Zigbee, Arduino and Labview</b>
+> ##### Plantation monitoring system with Zigbee, Arduino and Labview
 
 ###### Technologies:
 
