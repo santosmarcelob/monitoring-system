@@ -1,6 +1,12 @@
 # [PT-BR] Sistema de Monitoramento com Zigbee, Arduino e Labview
 <b>Sistema de monitoramento de Plantações com ZigBee, Arduino e LabVIEW</b>
 
+###### Tecnologias:
+
+- Arduino
+- C++
+- LabVIEW
+
 Projeto de Conclusão do curso de Engenharia Elétrica com Hab. em Telecomunicações
 
 Resumo – A tecnologia tem ajudado muitas pessoas e empresas em seus respectivos ramos de atuação, agricultura e horticultura também estão sendo beneficiados pelos avanços tecnológicos recentes. Este trabalho tem como objetivo o desenvolvimento de um sistema de monitoramento de plantações, para otimização do cultivo agrícola,  será possível analisar os dados coletados por meio de um sistema de comunicação sem fio, os quais serão enviados a um software para geração de gráficos e análises futuras, visando assim uma melhoria contínua no processo produtivo e na qualidade da plantação onde o sistema estiver sendo utilizado. O envio dos dados de monitoramento para o software é feito por meio da utilização de módulos Xbee, os quais utilizam a tecnologia Mesh (malha) e Arduino para gerenciar a comunicação entre os módulos e o software. 
@@ -19,6 +25,12 @@ Arquivo <b>TCCII.vi</b> -> Sistema LabVIEW para monitoramento, onde são apresen
 
 # [EN] Monitoring System with Zigbee, Arduino and Labview
 <b>Plantation monitoring system with Zigbee, Arduino and Labview</b>
+
+###### Technologies:
+
+- Arduino
+- C++
+- LabVIEW
 
 Electrical and Telecommunications Engineering Final Project
 
