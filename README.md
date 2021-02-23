@@ -14,7 +14,7 @@ Resumo – A tecnologia tem ajudado muitas pessoas e empresas em seus respectivo
 
 Palavras-chave: Wireless mesh, redes mesh, monitoramento, redes, mesh, zigbee, arduino, xbee, labview.
 
-<b>Video demonstrando o funcionamento:</b> https://www.youtube.com/watch?v=JFwLpmhN5HI
+<b>Demonstração do funcionamento:</b> https://www.youtube.com/watch?v=JFwLpmhN5HI
 
 Arquivo <b>Sistema de Monitoramento de Plantações-ZigBee-Arduino-LabVIEW - Marcelo Santos.pdf</b> -> Artigo científico com os detalhes do projeto
 
