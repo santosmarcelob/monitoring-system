@@ -4,12 +4,12 @@ Também disponível em [português](#portugues)
 
 ### Table of contents:
 
-- [Overview](###technologies)
-- [Technologies](###technologies)
-- [Results](###results)
-- [Conclusion](###Conclusion)
+- [Overview](#overview)
+- [Technologies](#tecnologies)
+- [Results](#results)
+- [Conclusion](#conclusion)
 
-### Overview
+### Overview<a id="overview"></a>
 
 This is a plant monitoring system, which measures luminosity, humidity, temperature, and UV index.
 
@@ -17,7 +17,7 @@ It is based on the Zigbee specification, using <a href="https://en.wikipedia.org
 
 You can see a <a href="https://www.youtube.com/watch?v=JFwLpmhN5HI" target="_blank">video</a> of it working or go directly to the full <a href="https://github.com/santosmarcelob/monitoring-system/blob/master/Sistema%20de%20Monitoramento%20de%20Planta%C3%A7%C3%B5es-ZigBee-Arduino-LabVIEW%20-%20Marcelo%20Santos.pdf" target="_blank">scientific article</a> (in Portuguese).
 
-#### Technologies
+#### Technologies<a id="technologies"></a>
 
 :white_check_mark: <a href="https://en.wikipedia.org/wiki/Arduino" target="_blank">Arduino</a>
 	Arduino was used to handle the communication between the sensors and Xbee modules
@@ -31,7 +31,7 @@ You can see a <a href="https://www.youtube.com/watch?v=JFwLpmhN5HI" target="_bla
 :white_check_mark: <a href="https://en.wikipedia.org/wiki/Zigbee" target="_blank">Zigbee</a>
 	Zigbee is the wireless transmission technology, it makes data transmission over wireless simple and has many applications. It was used in this project to transmit the data collected from the sensors in the Arduino board (with Xbee transmitter module) to LabVIEW (with Xbee receiver).
 
-### Results
+### Results<a id="results"></a>
 
 As a result of this project, it was expected a good quality communication via Zigbee in different environments and situations, as well as correct readings, transmission and analysis of the data collected from the sensors, and its presentation in LabVIEW.
 
@@ -50,7 +50,7 @@ Following are the results of the humidity tests:
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/gra_umid.JPG) | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/tab_umid.JPG) |
 
-### Conclusion
+### Conclusion<a id="conclusion"></a>
 
 A fully working prototype was developed with the described tools, assuring efficiency and security using Zigbee technology in the agricultural sector.
 
@@ -67,8 +67,8 @@ It was proven the countless benefits of using these technologies in this sector,
 ### Índice:
 
 - [Visão geral](#visao)
-- [Tecnologias](###tecnologias)
-- [Resultados](###resultados)
+- [Tecnologias](#tecnologias)
+- [Resultados](#resultados)
 - [Conclusão](#conclusao)
 
 ### Visão geral<a id="visao"></a>
@@ -79,7 +79,7 @@ Este é um sistema de monitoramento de plantações, que faz a medição de lumi
 
 Você pode ver um <a href="https://www.youtube.com/watch?v=JFwLpmhN5HI" target="_blank">video</a> do funcionamento, ou ir diretamente ao <a href="https://github.com/santosmarcelob/monitoring-system/blob/master/Sistema%20de%20Monitoramento%20de%20Planta%C3%A7%C3%B5es-ZigBee-Arduino-LabVIEW%20-%20Marcelo%20Santos.pdf" target="_blank">artigo científico</a> completo.
 
-#### Tecnologias
+#### Tecnologias<a id="tecnologias"></a>
 
 :white_check_mark: <a href="https://pt.wikipedia.org/wiki/Arduino" target="_blank">Arduino</a>
 	O Arduino foi utilizado para lidar com a comunicação entre os sensores e os módulos Xbee.
@@ -93,7 +93,7 @@ Você pode ver um <a href="https://www.youtube.com/watch?v=JFwLpmhN5HI" target="
 :white_check_mark: <a href="https://pt.wikipedia.org/wiki/Zigbee" target="_blank">Zigbee</a>
 	O Zigbee é a tecnologia de transmissão wireless, ele torna simples a transmissão de dados via wireless e tem muitas aplicações. Foi utilizado neste projeto para transmitir os dados coletados dos sensores na placa arduino (com o Xbee transmissor) para o LabVIEW (com o Xbee receptor).
 
-### Resultados
+### Resultados<a id="resultados"></a>
 
 Como resultado deste projeto, era esperado uma comunicação de boa qualidade via Zigbee em diferentes ambientes e situações, assim como leituras corretas, transmissão e análise dos dados coletados pelos sensores, e sua apresentação no LabVIEW.
 
