@@ -5,7 +5,7 @@ Também disponível em [português](#portugues)
 ### Table of contents:
 
 - [Overview](#overview)
-- [Technologies](#tecnologies)
+- [Technologies](#technologies)
 - [Results](#results)
 - [Conclusion](#conclusion)
 
