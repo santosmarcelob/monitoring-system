@@ -1,4 +1,4 @@
-Também disponível em [português](#sistema de monitoramento de plantações)
+Também disponível em [português](#portugues)
 
 # Plant Monitoring System
 
@@ -62,20 +62,20 @@ It was proven the countless benefits of using these technologies in this sector,
 
 ----------
 
-# Sistema de Monitoramento de Plantações
+# Sistema de Monitoramento de Plantações<a id="portugues"></a>
 
 ### Índice:
 
-- [Visão geral](###visão geral)
+- [Visão geral](#visao)
 - [Tecnologias](###tecnologias)
 - [Resultados](###resultados)
-- [Conclusão](###conclusão)
+- [Conclusão](#conclusao)
 
-### Visão geral
+### Visão geral<a id="visao"></a>
 
 Este é um sistema de monitoramento de plantações, que faz a medição de luminosidade, umidade, temperatura e índice UV.
 
-É baseado na especificação Zigbee, utilizando módulos <a href="https://pt.wikipedia.org/wiki/XBee" target="_blank">Xbee</a> para a comunicação wireless.
+É baseado na especificação Zigbee, utilizando módulos <a href="https://en.wikipedia.org/wiki/XBee" target="_blank">Xbee</a> para a comunicação wireless.
 
 Você pode ver um <a href="https://www.youtube.com/watch?v=JFwLpmhN5HI" target="_blank">video</a> do funcionamento, ou ir diretamente ao <a href="https://github.com/santosmarcelob/monitoring-system/blob/master/Sistema%20de%20Monitoramento%20de%20Planta%C3%A7%C3%B5es-ZigBee-Arduino-LabVIEW%20-%20Marcelo%20Santos.pdf" target="_blank">artigo científico</a> completo.
 
@@ -112,7 +112,7 @@ A seguir os resultados dos testes de umidade:
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/gra_umid.JPG) | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/tab_umid.JPG) |
 
-### Conclusão
+### Conclusão<a id="conclusao"></a>
 
 Um protótipo foi desenvolvido com as ferramentas descritas, garantindo eficiência e segurança na utilização da tecnologias Zigbee no setor agrícola.
 
