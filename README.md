@@ -1,4 +1,4 @@
-=> Também disponível em [português](#sistema de monitoramento de plantações).
+Também disponível em [português](#sistema de monitoramento de plantações)
 
 # Plant Monitoring System
 
@@ -40,15 +40,15 @@ After the implementation, the data was collected during 3 days with two-hour int
 It was possible to analyze the variation of luminosity, temperature and UV index.
 Below are the results collected:
 
-| Graph: Average of measurements                         | Table: Measurements                                    |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| ![Average of measurements](.\img\gra_med_sensores.JPG) | ![Average of measurements](.\img\tab_med_sensores.JPG) |
+| Graph: Average of measurements                               | Table: Measurements                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/gra_med_sensores.JPG) | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/tab_med_sensores.JPG) |
 
 Following are the results of the humidity tests:
 
-| Graph: Humidity levels                         | Table: Humidity levels                         |
-| ---------------------------------------------- | ---------------------------------------------- |
-| ![Average of measurements](.\img\gra_umid.JPG) | ![Average of measurements](.\img\tab_umid.JPG) |
+| Graph: Humidity levels                                       | Table: Humidity levels                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/gra_umid.JPG) | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/tab_umid.JPG) |
 
 ### Conclusion
 
@@ -56,9 +56,9 @@ A fully working prototype was developed with the described tools, assuring effic
 
 It was proven the countless benefits of using these technologies in this sector, that is extremely important to the economy.
 
-![Average of measurements](.\img\ui_1.JPG)
+![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/ui_1.JPG)
 
-![Average of measurements](.\img\ui_2.JPG)
+![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/ui_2.JPG)
 
 ----------
 
@@ -102,15 +102,15 @@ Após a implementação, os dados foram coletados durante 3 dias com um interval
 Foi possível analizar a variação de luminosidade, temperatura e índice UV.
 Abaixo os resultados coletados:
 
-| Gráfico: Média das leituras                            | Tabela: Medições                                       |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| ![Average of measurements](.\img\gra_med_sensores.JPG) | ![Average of measurements](.\img\tab_med_sensores.JPG) |
+| Gráfico: Média das leituras                                  | Tabela: Medições                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/gra_med_sensores.JPG) | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/tab_med_sensores.JPG) |
 
 A seguir os resultados dos testes de umidade:
 
-| Gráfico: Níveis de umidade                     | Tabela: Níveis de umidade                      |
-| ---------------------------------------------- | ---------------------------------------------- |
-| ![Average of measurements](.\img\gra_umid.JPG) | ![Average of measurements](.\img\tab_umid.JPG) |
+| Gráfico: Níveis de umidade                                   | Tabela: Níveis de umidade                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/gra_umid.JPG) | ![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/tab_umid.JPG) |
 
 ### Conclusão
 
@@ -118,6 +118,6 @@ Um protótipo foi desenvolvido com as ferramentas descritas, garantindo eficiên
 
 Assim, foram demonstrados os inúmeros benefícios da utlização destas tecnologias no setor, que é extremamente importante para a economia.
 
-![Average of measurements](.\img\ui_1.JPG)
+![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/ui_1.JPG)
 
-![Average of measurements](.\img\ui_2.JPG)
+![Average of measurements](https://github.com/santosmarcelob/monitoring-system/blob/master/img/ui_2.JPG)
